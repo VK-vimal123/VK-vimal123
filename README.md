@@ -7,14 +7,37 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Frontend Developer** and Computer Science Engineering student who enjoys building modern, responsive, and user-friendly web applications.
+## 🧠 My Skills
 
-I have a strong foundation in **HTML, CSS, JavaScript, React, and Tailwind CSS**, and I'm currently expanding my skills in **Node.js** and full-stack development.
+### 💻 Programming Languages
 
-I'm also learning **C, Python (Basics), and Java**, while continuously improving my problem-solving and Data Structures & Algorithms skills.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,java,python,javascript" />
+</p>
 
-I enjoy working on real-world projects, exploring new technologies, and creating clean, interactive user interfaces that deliver a great user experience.
+### 🎨 Frontend Development
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" />
+</p>
+
+### ⚙️ Backend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🛠️ Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+</p>
 ---
 
 ## 🎯 Current Focus
