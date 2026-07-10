@@ -37,17 +37,31 @@ I'm proficient in HTML, CSS, JavaScript, React, Tailwind CSS, C, Java, and Pytho
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
 </p>
 ---
+---
+
 ## 🚀 Featured Projects
 
 ### 🖥️ Nimbus — Admin Dashboard
 
-Developed a modern, fully responsive admin dashboard with authentication, interactive analytics, data visualization, and reusable UI components using **React 19, Vite, Tailwind CSS v4, React Router, and Recharts**.
-(https://admin-dashboard-nine-mu-23.vercel.app/dashboard)
-## 🎯 Current Focus
+Developed a modern, fully responsive admin dashboard with authentication, interactive analytics, data visualization, and reusable UI components.
 
-- 🌱 Learning React and Node.js
-- 💻 Building responsive web applications
-- 🚀 Improving Java and DSA skills
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind" alt="Tech Stack" />
+</p>
+
+👉 **[Live Demo](https://admin-dashboard-nine-mu-23.vercel.app/dashboard)** | **[Source Code](https://github.com/VK-vimal123)**
+
+---
+
+## 🎯 Current Focus & Goals
+
+| 🟢 Learning & Building | 🔵 Career & Growth |
+| :--- | :--- |
+| 📚 Exploring **Full-Stack Development** | 💻 Improving **Java & DSA** skills |
+| 🌱 Mastering **React** and **Node.js** | 🤝 Contributing to **open-source projects** |
+| 🚀 Building responsive web applications | 📈 Preparing for engineering roles |
+
+---
 
 ## 🔗 Connect with Me
 
@@ -55,10 +69,10 @@ Developed a modern, fully responsive admin dashboard with authentication, intera
   <a href="https://github.com/VK-vimal123" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-
   <a href="https://www.linkedin.com/in/vimalkumar-m-00b23a331/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-</p>
-- 📚 Exploring Full Stack Development
-- 🤝 Contributing to open-source projects
+  <a href="mailto:vimal2004825@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>uting to open-source projects
