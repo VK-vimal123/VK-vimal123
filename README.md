@@ -1,7 +1,7 @@
 # -VK-vimal123
 # 👋 Hi there, I'm Vimal Kumar
 
-🎓 BE Computer Science Engineering Student (5th Semester) | 💻 Frontend Developer | 📍 Tamil Nadu, India
+🎓 BE Computer Science Engineering Student  | 💻 Frontend Developer | 📍 Tamil Nadu, India
 
 ---
 
