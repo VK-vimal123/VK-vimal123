@@ -50,5 +50,17 @@ I'm proficient in HTML, CSS, JavaScript, React, Tailwind CSS, C, Java, and Pytho
 - 🌱 Learning React and Node.js
 - 💻 Building responsive web applications
 - 🚀 Improving Java and DSA skills
+
+## 🔗 Connect with Me
+
+<p align="left">
+  <a href="https://github.com/VK-vimal123" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/vimalkumar-m-00b23a331/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 - 📚 Exploring Full Stack Development
 - 🤝 Contributing to open-source projects
