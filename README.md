@@ -50,6 +50,23 @@ Developed a modern, fully responsive admin dashboard with authentication, intera
 </p>
 
 👉 **[Live Demo](https://admin-dashboard-nine-mu-23.vercel.app/dashboard)** | **[Source Code](https://github.com/VK-vimal123)**
+---
+---
+
+### 📚 Social Learning Notes Exchange
+
+A collaborative full-stack web platform designed for students to seamlessly upload, organize, and share academic materials, fostering a community-driven learning environment.
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vue,nodejs,express,mongodb,tailwind" alt="Notes Exchange Tech Stack" />
+</p>
+
+✨ **Key Features:**
+* **Secure Authentication:** User signup and login with role-based access.
+* **Document Management:** Smooth upload, download, and categorization of study notes.
+* **Interactive UI:** Responsive dashboard for managing personal uploads and saved resources.
+
+🔗 **[Live Demo](https://socialnoteapp.vercel.app/)** • **[GitHub Repository](https://github.com/VK-vimal123)**
 
 ---
 
