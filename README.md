@@ -1,4 +1,6 @@
-# VK-vimal123
+<p align="center">
+  <img src="https://capsule-render.vercel.app/type=waving&color=333333&height=150&section=header&text=Vimal's%20GitHub&fontSize=40&fontAlignY=45" alt="Vimal's GitHub Banner" />
+</p>
 # 👋 Hi there, I'm Vimal Kumar
 
 🎓 BE Computer Science Engineering Student  | 💻 Frontend Developer | 📍 Tamil Nadu, India
