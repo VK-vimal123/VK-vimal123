@@ -26,12 +26,6 @@ I'm proficient in HTML, CSS, JavaScript, React, Tailwind CSS, C, Java, and Pytho
   <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" />
 </p>
 
-### ⚙️ Backend Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
 ### 🗄️ Database
 
 <p align="left">
