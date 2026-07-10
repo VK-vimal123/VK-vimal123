@@ -6,6 +6,11 @@
 ---
 
 ## 🚀 About Me
+🚀 About Me
+
+I'm a Final-year B.E. Computer Science Engineering student passionate about Frontend Development and creating modern web experiences. I enjoy designing clean, responsive, and interactive user interfaces that provide an excellent user experience.
+
+I'm proficient in HTML, CSS, JavaScript, React, Tailwind CSS, C, Java, and Python (Basics). I have hands-on experience building responsive web applications, admin dashboards, and AI-based projects, and I'm always eager to learn new technologies and contribute to impactful software solutions.
 
 ## 🧠 My Skills
 
