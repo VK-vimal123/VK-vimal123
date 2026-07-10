@@ -6,7 +6,6 @@
 ---
 
 ## 🚀 About Me
-🚀 About Me
 
 I'm a Final-year B.E. Computer Science Engineering student passionate about Frontend Development and creating modern web experiences. I enjoy designing clean, responsive, and interactive user interfaces that provide an excellent user experience.
 
