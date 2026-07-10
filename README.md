@@ -37,7 +37,12 @@ I'm proficient in HTML, CSS, JavaScript, React, Tailwind CSS, C, Java, and Pytho
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
 </p>
 ---
+## 🚀 Featured Projects
 
+### 🖥️ Nimbus — Admin Dashboard
+
+Developed a modern, fully responsive admin dashboard with authentication, interactive analytics, data visualization, and reusable UI components using **React 19, Vite, Tailwind CSS v4, React Router, and Recharts**.
+(https://admin-dashboard-nine-mu-23.vercel.app/dashboard)
 ## 🎯 Current Focus
 
 - 🌱 Learning React and Node.js
