@@ -5,7 +5,6 @@
 <p align="center">📍 Tamil Nadu, India</p>
 
 ---
----
 
 ## 🚀 About Me
 
