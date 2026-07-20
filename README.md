@@ -68,6 +68,28 @@ A collaborative full-stack web platform designed for students to seamlessly uplo
 * **Interactive UI:** Responsive dashboard for managing personal uploads and saved resources.
 
 🔗 **[Live Demo](https://socialnoteapp.vercel.app/)** • **[GitHub Repository](https://github.com/VK-vimal123)**
+### 🖥️ VK-Project-Portfolio
+
+A modern developer portfolio to showcase projects, technical skills, certifications, education, achievements, and contact information. Designed with a clean, responsive interface, smooth animations, GitHub integration, and project filtering for an engaging user experience.
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript" alt="Tech Stack" />
+</p>
+
+👉 **[Live Demo](https://vk-project-portfolio.vercel.app/)** | **[Source Code](https://vk-vimal123.github.io/VK-Project-Portfolio/)**
+### ✨ Features
+
+- 👨‍💻 Professional developer portfolio
+- 📂 Project showcase with live demo links
+- 🛠️ Skills and technology section
+- 📜 Certifications & achievements
+- 🎓 Education timeline
+- 📱 Fully responsive design
+- 🌙 Modern UI with smooth animations
+- 📬 Contact section
+- ⚡ Fast loading performance
+
+---
 
 ---
 
