@@ -42,17 +42,6 @@ I'm proficient in HTML, CSS, JavaScript, React, Tailwind CSS, C, Java, and Pytho
 
 A selection of projects I've built while learning and exploring software development.
 
-### 🖥️ Nimbus — Admin Dashboard
-Developed a modern, fully responsive admin dashboard with authentication, interactive analytics, data visualization, and reusable UI components.
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind" alt="Tech Stack" />
-</p>
-
-👉 **[Live Demo](https://admin-dashboard-nine-mu-23.vercel.app/dashboard)** | **[Source Code](https://github.com/VK-vimal123)**
-
----
-
 ### 📚 Social Learning Notes Exchange
 A collaborative full-stack web platform designed for students to seamlessly upload, organize, and share academic materials, fostering a community-driven learning environment.
 
@@ -66,29 +55,6 @@ A collaborative full-stack web platform designed for students to seamlessly uplo
 * **Interactive UI:** Responsive dashboard for managing personal uploads and saved resources.
 
 🔗 **[Live Demo](https://socialnoteapp.vercel.app/)** • **[GitHub Repository](https://github.com/VK-vimal123)**
-
----
-
-### 🖥️ VK-Project-Portfolio
-A modern developer portfolio to showcase projects, technical skills, certifications, education, achievements, and contact information. Designed with a clean, responsive interface, smooth animations, GitHub integration, and project filtering for an engaging user experience.
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript" alt="Tech Stack" />
-</p>
-
-👉 **[Live Demo](https://vk-project-portfolio.vercel.app/)** | **[Source Code](https://github.com/VK-vimal123/VK-Project-Portfolio)**
-
-✨ **Features:**
-- 👨‍💻 Professional developer portfolio
-- 📂 Project showcase with live demo links
-- 🛠️ Skills and technology section
-- 📜 Certifications & achievements
-- 🎓 Education timeline
-- 📱 Fully responsive design
-- 🌙 Modern UI with smooth animations
-- 📬 Contact section
-- ⚡ Fast loading performance
-
 ---
 
 ### 🧠 Emotion Detection from Text
