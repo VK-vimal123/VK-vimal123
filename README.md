@@ -12,38 +12,37 @@ I'm a Final-year B.E. Computer Science Engineering student passionate about Fron
 
 I'm proficient in HTML, CSS, JavaScript, React, Tailwind CSS, C, Java, and Python (Basics). I have hands-on experience building responsive web applications, admin dashboards, and AI-based projects, and I'm always eager to learn new technologies and contribute to impactful software solutions.
 
+---
+
 ## 🧠 My Skills
 
 ### 💻 Programming Languages
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,java,python,javascript" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,javascript" alt="Programming Languages" />
 </p>
 
 ### 🎨 Frontend Development
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" alt="Frontend Development" />
 </p>
 
 ### 🗄️ Database
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Database" />
 </p>
 
 ### 🛠️ Tools & Technologies
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" alt="Tools and Technologies" />
 </p>
----
+
 ---
 
 ## 🚀 Featured Projects
 
-### 🖥️ Nimbus — Admin Dashboard
+A selection of projects I've built while learning and exploring software development.
 
+### 🖥️ Nimbus — Admin Dashboard
 Developed a modern, fully responsive admin dashboard with authentication, interactive analytics, data visualization, and reusable UI components.
 
 <p align="left">
@@ -51,11 +50,10 @@ Developed a modern, fully responsive admin dashboard with authentication, intera
 </p>
 
 👉 **[Live Demo](https://admin-dashboard-nine-mu-23.vercel.app/dashboard)** | **[Source Code](https://github.com/VK-vimal123)**
----
+
 ---
 
 ### 📚 Social Learning Notes Exchange
-
 A collaborative full-stack web platform designed for students to seamlessly upload, organize, and share academic materials, fostering a community-driven learning environment.
 
 <p align="left">
@@ -68,17 +66,19 @@ A collaborative full-stack web platform designed for students to seamlessly uplo
 * **Interactive UI:** Responsive dashboard for managing personal uploads and saved resources.
 
 🔗 **[Live Demo](https://socialnoteapp.vercel.app/)** • **[GitHub Repository](https://github.com/VK-vimal123)**
-### 🖥️ VK-Project-Portfolio
 
+---
+
+### 🖥️ VK-Project-Portfolio
 A modern developer portfolio to showcase projects, technical skills, certifications, education, achievements, and contact information. Designed with a clean, responsive interface, smooth animations, GitHub integration, and project filtering for an engaging user experience.
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,javascript" alt="Tech Stack" />
 </p>
 
-👉 **[Live Demo](https://vk-project-portfolio.vercel.app/)** | **[Source Code](https://vk-vimal123.github.io/VK-Project-Portfolio/)**
-### ✨ Features
+👉 **[Live Demo](https://vk-project-portfolio.vercel.app/)** | **[Source Code](https://github.com/VK-vimal123/VK-Project-Portfolio)**
 
+✨ **Features:**
 - 👨‍💻 Professional developer portfolio
 - 📂 Project showcase with live demo links
 - 🛠️ Skills and technology section
@@ -90,6 +90,52 @@ A modern developer portfolio to showcase projects, technical skills, certificati
 - ⚡ Fast loading performance
 
 ---
+
+### 🧠 Emotion Detection from Text
+**NLP • Bi-LSTM • Web Application**  
+An emotion detection application using a Bi-LSTM model with a web interface and analytics for identifying emotions from text.  
+* **Focus:** Natural Language Processing · Deep Learning · Web Interface  
+🔗 [View Project](https://github.com/VK-vimal123)
+
+---
+
+### ✋ AirDraw Computer Vision
+**Computer Vision • Hand Gesture Interaction**  
+A computer vision application that allows users to draw in the air using hand gestures, creating an interactive drawing experience through camera-based hand tracking.  
+* **Focus:** Computer Vision · Hand Gestures · Real-Time Interaction  
+🔗 [View Project](https://github.com/VK-vimal123)
+
+---
+
+### 🎓 E-Learning Frontend
+**Frontend Development • Responsive UI**  
+An online learning interface with course-focused frontend pages and responsive layouts, designed to provide a clean learning experience across different screen sizes.  
+* **Focus:** Frontend Development · Responsive Design · UI/UX  
+🔗 [Project Link — Add URL](#)
+
+---
+
+## 📌 Project Snapshot
+
+| Project | Category | Main Focus |
+| :--- | :--- | :--- |
+| 🖥️ **Nimbus — Admin Dashboard** | Frontend / Admin | Modern Dashboard & Analytics |
+| 📚 **Social Learning Notes Exchange** | Web / Full-Stack | Learning & Note Sharing |
+| 🖥️ **VK-Project-Portfolio** | Frontend | Developer Portfolio |
+| 🧠 **Emotion Detection from Text** | AI / NLP | Bi-LSTM & Emotion Detection |
+| ✋ **AirDraw Computer Vision** | Computer Vision | Hand Gesture Drawing |
+| 🎓 **E-Learning Frontend** | Frontend | Responsive Learning UI |
+
+---
+
+## 🔎 What these projects represent
+
+* **🌐 Full-Stack & Web** → Social Learning Notes Exchange & Nimbus Dashboard
+* **🎨 Frontend Development** → VK-Project-Portfolio & E-Learning Frontend
+* **🧠 AI & ML** → Emotion Detection from Text
+* **👁️ Computer Vision** → AirDraw Computer Vision
+
+*These projects show my interest in exploring different areas of software development while continuing to strengthen my frontend and programming skills.*
 
 ---
 
@@ -115,4 +161,4 @@ A modern developer portfolio to showcase projects, technical skills, certificati
   <a href="mailto:vimal2004825@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</p>uting to open-source projects
+</p>
