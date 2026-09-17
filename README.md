@@ -93,31 +93,6 @@ An online learning interface with course-focused frontend pages and responsive l
 * **Focus:** Frontend Development · Responsive Design · UI/UX  
 🔗 [Project Link — Add URL](#)
 ---
-
-## 📌 Project Snapshot
-
-| Project | Category | Main Focus |
-| :--- | :--- | :--- |
-| 🖥️ **Nimbus — Admin Dashboard** | Frontend / Admin | Modern Dashboard & Analytics |
-| 📚 **Social Learning Notes Exchange** | Web / Full-Stack | Learning & Note Sharing |
-| 🖥️ **VK-Project-Portfolio** | Frontend | Developer Portfolio |
-| 🧠 **Emotion Detection from Text** | AI / NLP | Bi-LSTM & Emotion Detection |
-| ✋ **AirDraw Computer Vision** | Computer Vision | Hand Gesture Drawing |
-| 🎓 **E-Learning Frontend** | Frontend | Responsive Learning UI |
-
----
-
-## 🔎 What these projects represent
-
-* **🌐 Full-Stack & Web** → Social Learning Notes Exchange & Nimbus Dashboard
-* **🎨 Frontend Development** → VK-Project-Portfolio & E-Learning Frontend
-* **🧠 AI & ML** → Emotion Detection from Text
-* **👁️ Computer Vision** → AirDraw Computer Vision
-
-*These projects show my interest in exploring different areas of software development while continuing to strengthen my frontend and programming skills.*
-
----
-
 ## 🎯 Current Focus & Goals
 
 | 🟢 Learning & Building | 🔵 Career & Growth |
