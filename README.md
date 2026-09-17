@@ -60,14 +60,23 @@ A collaborative full-stack web platform designed for students to seamlessly uplo
 ### 🧠 Emotion Detection from Text
 **NLP • Bi-LSTM • Web Application**  
 An emotion detection application using a Bi-LSTM model with a web interface and analytics for identifying emotions from text.  
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,keras,html,css,javascript" alt="Emotion Detection Tech Stack" />
+</p>
+
 * **Focus:** Natural Language Processing · Deep Learning · Web Interface  
 🔗 [View Project](https://github.com/VK-vimal123)
 
 ---
-
 ### ✋ AirDraw Computer Vision
 **Computer Vision • Hand Gesture Interaction**  
 A computer vision application that allows users to draw in the air using hand gestures, creating an interactive drawing experience through camera-based hand tracking.  
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,opencv,mediapipe" alt="AirDraw Tech Stack" />
+</p>
+
 * **Focus:** Computer Vision · Hand Gestures · Real-Time Interaction  
 🔗 [View Project](https://github.com/VK-vimal123)
 
@@ -76,9 +85,13 @@ A computer vision application that allows users to draw in the air using hand ge
 ### 🎓 E-Learning Frontend
 **Frontend Development • Responsive UI**  
 An online learning interface with course-focused frontend pages and responsive layouts, designed to provide a clean learning experience across different screen sizes.  
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind" alt="E-Learning Frontend Tech Stack" />
+</p>
+
 * **Focus:** Frontend Development · Responsive Design · UI/UX  
 🔗 [Project Link — Add URL](#)
-
 ---
 
 ## 📌 Project Snapshot
